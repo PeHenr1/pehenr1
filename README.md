@@ -4,9 +4,11 @@
 - 
 - :mortar_board: Graduated in IT Technician for Internet Integrated into High School       
 - :computer: Studying Technology in Systems Analysis and Development
+- :warning: Code running, sleep on standby. Priorities set!
 ---
                                                                                                                          
 ```javascript
+// skills
 const pehenr1 = {
   pronouns: "he" | "his",
   code: [Javascript, C, HTML, CSS, Python, Java],
