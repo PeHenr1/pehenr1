@@ -1,6 +1,6 @@
-# Hey, Pedro here ![piriquito](https://camo.githubusercontent.com/f53c0bfbaab03fb628447c8c37d2ea7d78f61528e1c8d14795d363f46e47f01f/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f737461626c65706172726f742e676966)
+# hey, pehenr1 here ![piriquito](https://camo.githubusercontent.com/f53c0bfbaab03fb628447c8c37d2ea7d78f61528e1c8d14795d363f46e47f01f/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f737461626c65706172726f742e676966)
 
-### About me:
+### about me:
 - :mortar_board: Graduated in IT Technician for Internet Integrated into High School       
 - :computer: Studying Technology in Systems Analysis and Development
 - :warning: Code running, sleep on standby. Priorities set!
