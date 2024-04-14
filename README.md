@@ -8,16 +8,15 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="![image](https://github.com/PeHenr1/pehenr1/assets/84182614/7b3e43b8-02e5-477e-8646-0dd8dd9b90a0)
-?i=1" width="540" height="64"></a></td>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="[https://link_para_imagem_da_capa_da_musica_slow_it_down](https://cdns-images.dzcdn.net/images/cover/e8947b2a3e00fde8763011ebee2a02fd/264x264.jpg)" width="540" height="64"></a></td>
     </tr>
     <tr></tr> <!-- hide gray row -->
     <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=2&open"><img src="https://status.nmoo.dev/top-tracks?i=2" width="540" height="64"></a></td>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=2&open"><img src="https://link_para_imagem_da_capa_da_musica_friends" width="540" height="64"></a></td>
     </tr>
     <tr></tr> <!-- hide gray row -->
     <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=3&open"><img src="https://status.nmoo.dev/top-tracks?i=3" width="540" height="64"></a></td>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=3&open"><img src="https://link_para_imagem_da_capa_da_musica_the_hidden_river_of_my_life" width="540" height="64"></a></td>
     </tr>
   </tbody>
 </table>
