@@ -15,7 +15,7 @@ const pehenr1 = {
 ```
 
 
-   
-![Gato Mexendinho](https://private-user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif)
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+
 
  I like connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
