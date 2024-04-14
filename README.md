@@ -5,7 +5,6 @@
 - :computer: studying technology in systems analysis and development
 - :warning: code running, sleep on standby. priorities set!
 ---
-
                                                                                                                          
 ```javascript
 // skills
