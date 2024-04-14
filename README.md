@@ -10,8 +10,8 @@
 // skills
 const pehenr1 = {
   pronouns: "he" | "his",
-  code: [Javascript, C, HTML, CSS, Python, Java],
-  tools: [Android Studio, MySQL]
+  code: [Javascript, C, C#, HTML, CSS, Python, Java],
+  tools: [Android Studio, MySQL, Unity]
 }
 ```
 
