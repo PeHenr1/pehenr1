@@ -1,20 +1,20 @@
 # Hey, Pedro here!
 
-> Sobre mim:
-- Graduado em Técnico em Informática para Internet Integrado ao Ensino Médio       
-- Estudante de Análise e Desenvolvimento de Sistemas
+> About me:
+- 
+- :mortar_board: Graduated in IT Technician for Internet Integrated into High School       
+- :computer: Studying Technology in Systems Analysis and Development
 ---
-
-| 🎵 Ouvindo...                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <div style="display:flex;align-items:center;padding-top:8px;padding-left:4px">                                                  |
-|    <img id="cover" src="https://cdns-images.dzcdn.net/images/cover/e8947b2a3e00fde8763011ebee2a02fd/264x264.jpg" width="48" height="48" />|
-|    <div style="display:flex;flex:1;flex-direction:column;margin-top:-4px;margin-left:8px">|
-|      <p style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600" id="track">Slow It Down</p>|
-|      <p style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400" id="artist">Benson Boone</p>|
-|    </div>|
-|  </div>                                                                                                                                |
-
+                                                                                                                         
+```javascript
+const pehenr1 = {
+  pronouns: "he" | "his",
+  code: [Javascript, C, HTML, CSS, Python, Java],
+  tools: [Android Studio, MySQL]
+}
+```
 
 
    
+![Gato Mexendinho](https://private-user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif)
+ I like connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
