@@ -1,4 +1,4 @@
-# Hey, Pedro here ![totoro](https://i.giphy.com/tPzuDa62ovAI.webp)
+# Hey, Pedro here ![totoro]()
 
 > About me:
 - :mortar_board: Graduated in IT Technician for Internet Integrated into High School       
