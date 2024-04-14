@@ -1,7 +1,6 @@
 # Hey, Pedro here!
 
 > About me:
-- 
 - :mortar_board: Graduated in IT Technician for Internet Integrated into High School       
 - :computer: Studying Technology in Systems Analysis and Development
 - :warning: Code running, sleep on standby. Priorities set!
