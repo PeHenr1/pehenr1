@@ -16,7 +16,10 @@ const pehenr1 = {
 ```
 ---
 
-![trex](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
-
+## 📈 Estatísticas
+<div align='center'>
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Isabelaponte&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelaponte&layout=compact&langs_count=16&theme=radical"/>
+</div>
 
 
