@@ -16,7 +16,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="[https://status.nmoo.dev/top-tracks](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB?si=da671785d29140f2)?i=1&open"><img src="https://cdns-images.dzcdn.net/images/cover/e8947b2a3e00fde8763011ebee2a02fd/264x264.jpg" width="540" height="64"></a></td>
+      <td><a href="https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB?si=da671785d29140f2?i=1&open"><img src="https://cdns-images.dzcdn.net/images/cover/e8947b2a3e00fde8763011ebee2a02fd/264x264.jpg" width="540" height="64"></a></td>
     </tr>
     <tr></tr> <!-- hide gray row -->
     <tr>
