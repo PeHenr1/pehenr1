@@ -15,7 +15,7 @@ const pehenr1 = {
 ```
 
 
-![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+![pacman](https://i.imgur.com/1ZvVkDc.gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 
  I like connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
