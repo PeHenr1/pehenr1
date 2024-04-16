@@ -9,9 +9,9 @@
 ```javascript
 // skills
 const pehenr1 = {
-  pronouns: "he" | "his",
-  code: [Javascript, C, C#, HTML, CSS, Python, Java],
-  tools: [Android Studio, MySQL, Unity],
+  pronouns: ['he', 'his'],
+  code: ['Javascript', 'C', 'C#', 'HTML', 'CSS', 'Python', 'Java'],
+  tools: ['Android Studio', 'MySQL', 'Unity'],
   hobbies: ['Anime', 'Listen to Music', 'Programming', 'Cooking', 'Gaming']
 }
 ```
