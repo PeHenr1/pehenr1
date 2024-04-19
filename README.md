@@ -23,6 +23,3 @@ const pehenr1 = {
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehenr1&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
----
-
-![snake-gif] (https://github.com/PeHenr1/PeHenr1/blob/output/github-contribution-grid-snake.svg)
