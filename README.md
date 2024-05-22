@@ -7,7 +7,7 @@
 ---
                                                                                                                          
 ```javascript
-// skills
+// about me
 const pehenr1 = {
   pronouns: ['he', 'his'],
   code: ['Javascript', 'C', 'C#', 'HTML', 'CSS', 'Python', 'Java'],
