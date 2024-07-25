@@ -10,7 +10,7 @@
 // about me
 const pehenr1 = {
   pronouns: ['he', 'him'],
-  code: ['Javascript', 'C', 'C#', 'HTML', 'CSS', 'Python', 'Java'],
+  code: ['Javascript', 'C', 'C#', 'HTML', 'CSS', 'Python', 'Java', 'React', 'Node.js'],
   tools: ['Android Studio', 'MySQL', 'Unity'],
   hobbies: ['Anime', 'Listen to Music', 'Programming', 'Cooking', 'Gaming']
 }
