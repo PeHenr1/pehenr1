@@ -1,6 +1,4 @@
-# hello, pehenr1 here
-
-### about me:
+# hey, pehenr1 here
 - :mortar_board: graduated in IT technician integrated into high school       
 - :computer: studying technology in systems analysis and development
 - :warning: code running, sleep on standby. priorities set!
