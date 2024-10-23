@@ -32,10 +32,9 @@ const pehenr1 = {
 </div>
 
 <br>
----
 <br>
 
 <div align='center'>
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=pehenr1&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehenr1&layout=compact&langs_count=16&theme=radical"/>
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehenr1&layout=compact&langs_count=16&theme=radical"/>
 </div>
