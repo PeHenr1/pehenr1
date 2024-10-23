@@ -9,7 +9,6 @@ const pehenr1 = {
   hobbies: ['Anime', 'Listen to Music', 'Programming', 'Cooking', 'Gaming']
 }
 ```
----
 
 <h2>About me:</h2>
 :mortar_board: Graduated in High School Integrated with Internet Computing Technician Program 
