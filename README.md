@@ -10,7 +10,7 @@ const pehenr1 = {
 }
 ```
 
-<h2>About me:</h2>
+<h3>About me:</h3>
 <p>:mortar_board: Graduated in High School Integrated with Internet Computing Technician Program</p>
 <p>:computer: Studying Systems Analysis and Software Development</p>
 
