@@ -31,7 +31,9 @@ const pehenr1 = {
  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
-<br>---<br>
+<br>
+---
+<br>
 
 <div align='center'>
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=pehenr1&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
