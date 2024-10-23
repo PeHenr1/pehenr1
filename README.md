@@ -6,13 +6,13 @@
                                                                                                                          
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
 
-  <div>
+  <div align="left">
     <h2>About me:</h2>
-    :mortar_board: Graduated in High School Integrated with Internet Computing Technician Program  
-    :computer: Studying Systems Analysis and Software Development
+    <p>:mortar_board: Graduated in High School Integrated with Internet Computing Technician Program  </p>
+    <p>:computer: Studying Systems Analysis and Software Development</p>
   </div>
 
-  <div>
+  <div align="right">
     <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehenr1&layout=compact&langs_count=16&theme=radical"/>
   </div>
 
