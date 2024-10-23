@@ -1,11 +1,5 @@
 <h1 align="center">Hey! Pedro here!</h1>
-
-<br><div align="center">
-  <a href="mailto:aissahenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/pedroh-aissa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-</div><br>
-                                                                                                                       
+                                                                                                                     
 ```javascript
 const pehenr1 = {
   age: 20,
@@ -37,7 +31,12 @@ const pehenr1 = {
 </div>
 
 <br>
-<br>
+
+<h3>Contact me:</h3>
+<a href="mailto:aissahenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedroh-aissa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<br><br>
 
 <div align='center'>
   <img width="53%"  src="https://github-readme-stats.vercel.app/api?username=pehenr1&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
