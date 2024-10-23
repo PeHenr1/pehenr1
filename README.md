@@ -11,10 +11,8 @@ const pehenr1 = {
 ```
 
 <h2>About me:</h2>
-:mortar_board: Graduated in High School Integrated with Internet Computing Technician Program 
-:computer: Studying Systems Analysis and Software Development
-
----
+<p>:mortar_board: Graduated in High School Integrated with Internet Computing Technician Program</p>
+<p>:computer: Studying Systems Analysis and Software Development</p>
 
 ## 👾 Languages & Tools
 <div style="display: inline_block">
@@ -32,6 +30,8 @@ const pehenr1 = {
  <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
+
+<br>
 
 <div align='center'>
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=pehenr1&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
