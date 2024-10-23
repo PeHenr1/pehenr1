@@ -8,7 +8,6 @@
 
                                                                                                                        
 ```javascript
-// about me
 const pehenr1 = {
   age: 20,
   interests: [ 'C', 'Python', 'Java', 'React', 'Node.js', 'Databases'],
