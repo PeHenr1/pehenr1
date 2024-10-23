@@ -14,7 +14,7 @@ const pehenr1 = {
 <p>:mortar_board: Graduated in High School Integrated with Internet Computing Technician Program</p>
 <p>:computer: Studying Systems Analysis and Software Development</p>
 
-## 👾 Languages & Tools
+<h3>👾 Languages & Tools </h3>
 <div style="display: inline_block">
  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">  
  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">  
@@ -31,7 +31,7 @@ const pehenr1 = {
  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
-<br>
+<br>---<br>
 
 <div align='center'>
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=pehenr1&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
