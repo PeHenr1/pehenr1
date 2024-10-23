@@ -20,7 +20,7 @@ const pehenr1 = {
 <p>:mortar_board: Graduated in High School Integrated with Internet Computing Technician Program</p>
 <p>:computer: Studying Systems Analysis and Software Development</p>
 
-<h3>👾 Languages & Tools </h3>
+<h3>Languages & Tools 👾 </h3>
 <div style="display: inline_block">
  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">  
  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">  
