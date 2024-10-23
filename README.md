@@ -12,8 +12,8 @@
     <p>:computer: Studying Systems Analysis and Software Development</p>
   </div>
 
-  <div align="right" style="margin-top:-150px">
-    <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehenr1&layout=compact&langs_count=16&theme=radical"/>
+  <div align="right">
+    <img width="28%"  style="margin-top:-150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehenr1&layout=compact&langs_count=16&theme=radical"/>
   </div>
 
 </div>
