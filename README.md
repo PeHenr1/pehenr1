@@ -30,7 +30,6 @@ const pehenr1 = {
  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
-<br>
 
 <h3>Contact me:</h3>
 <a href="mailto:aissahenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
