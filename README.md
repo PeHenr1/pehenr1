@@ -9,7 +9,7 @@
 const pehenr1 = {
   pronouns: ['he', 'him'],
   code: ['Javascript', 'C', 'C#', 'HTML', 'CSS', 'Python', 'Java', 'React', 'Node.js'],
-  tools: ['Android Studio', 'MySQL', 'Unity'],
+  tools: ['Android Studio', 'MySQL', 'Unity','PostgreSQL'],
   hobbies: ['Anime', 'Listen to Music', 'Programming', 'Cooking', 'Gaming']
 }
 ```
