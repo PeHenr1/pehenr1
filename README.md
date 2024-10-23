@@ -1,11 +1,10 @@
 <h1 align="center">Hey! Pedro here!</h1>
 
-<div align="center">
+<br><div align="center">
   <a href="mailto:aissahenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/pedroh-aissa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-</div>
-
+</div><br>
                                                                                                                        
 ```javascript
 const pehenr1 = {
