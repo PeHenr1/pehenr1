@@ -4,15 +4,19 @@
 - :warning: code running, sleep on standby. priorities set!
 ---
                                                                                                                          
-```javascript
-// about me
-const pehenr1 = {
-  pronouns: ['he', 'him'],
-  code: ['Javascript', 'C', 'C#', 'HTML', 'CSS', 'Python', 'Java', 'React', 'Node.js'],
-  tools: ['Android Studio', 'MySQL', 'Unity','PostgreSQL'],
-  hobbies: ['Anime', 'Listen to Music', 'Programming', 'Cooking', 'Gaming']
-}
-```
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+
+  <div>
+    <h2>About me:</h2>
+    :mortar_board: Graduated in High School Integrated with Internet Computing Technician Program  
+    :computer: Studying Systems Analysis and Software Development
+  </div>
+
+  <div>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehenr1&layout=compact&langs_count=16&theme=radical"/>
+  </div>
+
+</div>
 
 ---
 
